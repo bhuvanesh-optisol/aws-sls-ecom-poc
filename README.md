@@ -1,6 +1,6 @@
 # aws-sls-ecom-poc
 
-Architectural diagram for ecom-serverless project
+<b>Architectural diagram for ecom-serverless project</b>
 <img src="/ecom-poc.png" alt="My cool logo" height="600" width="800"/>
 
 Documentation for ecom-serverless project

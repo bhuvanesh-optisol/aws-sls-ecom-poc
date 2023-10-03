@@ -1,5 +1,5 @@
 # aws-sls-ecom-poc
-<img src="/ecom-poc.png" alt="My cool logo" height="200" width="200"/>
+<img src="/ecom-poc.png" alt="My cool logo" height="500" width="500"/>
 
 sls deploy
 
